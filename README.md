@@ -4,7 +4,7 @@ This project is a simple yet elegant **Quote Generator Web App** built using mod
 
 ## 🔧 Features
 
-- *ShadCN UI Form**: Clean and responsive input form to enter any topic.
+- **ShadCN UI Form**: Clean and responsive input form to enter any topic.
 - **Motivational Quotes Display**: Shows 3 inspirational quotes, currently fetched from a local JSON file or array.
 - **Deployed on Vercel**: Live and accessible online.
 - **Code Structure**: All implementation is available in the `assignment-1/` directory.
