@@ -10,3 +10,14 @@ This project is a simple yet elegant **Quote Generator Web App** built using mod
 - **Code Structure**: All implementation is available in the `assignment-1/` directory.
 
 > 🔄 *Upcoming Improvement*: Planning to fetch quotes dynamically using an external API for better variety and user experience.
+
+## ✅ Day 2 – Project Setup and UI Input Component
+
+- Initialized the **Next.js** project structure.
+- Installed essential dependencies:
+  - **Tailwind CSS**
+  - **ShadCN UI**
+  - **react-hook-form** and **zod** for form handling and validation.
+- Configured ShadCN using its CLI and added the `input` component.
+- Built and styled a working input form with validation using ShadCN UI components.
+
