@@ -21,3 +21,7 @@ This project is a simple yet elegant **Quote Generator Web App** built using mod
 - Configured ShadCN using its CLI and added the `input` component.
 - Built and styled a working input form with validation using ShadCN UI components.
 
+## ✅ Day 3 – Routing In Next.js 
+- Added Api Route.
+- NOTE: Application Is Not functional, few issues are still to be resloved.
+
