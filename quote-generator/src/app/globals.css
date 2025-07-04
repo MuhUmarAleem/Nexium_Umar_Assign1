@@ -120,3 +120,62 @@
     @apply bg-background text-foreground;
   }
 }
+.pulse-neon {
+  background: rgba(255, 255, 255, 0.05);
+  border: 2px solid #00ffe0;
+  border-radius: 16px;
+  box-shadow: 0 0 15px #00ffe0, 0 0 30px #00ffe0;
+  animation: pulse 2s infinite ease-in-out;
+}
+
+@keyframes pulse {
+  0%, 100% {
+    box-shadow: 0 0 15px #00ffe0, 0 0 30px #00ffe0;
+  }
+  50% {
+    box-shadow: 0 0 30px #00ffe0, 0 0 60px #00ffe0;
+  }
+}
+
+.glassy {
+  background: rgba(255, 255, 255, 0.103); /* light translucent */
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 1rem;
+  backdrop-filter: blur(12px); /* blur behind the div */
+  -webkit-backdrop-filter: blur(12px);
+  box-shadow: 0 0 15px rgba(0, 255, 224, 0.3), 0 0 30px rgba(0, 255, 224, 0.3);
+  animation: pulse 2s infinite ease-in-out;
+}
+
+@keyframes pulse {
+  0%, 100% {
+    box-shadow: 0 0 15px rgba(0, 255, 224, 0.3), 0 0 30px rgba(0, 255, 224, 0.3);
+  }
+  50% {
+    box-shadow: 0 0 30px rgba(0, 255, 224, 0.5), 0 0 60px rgba(0, 255, 224, 0.5);
+  }
+}
+
+@keyframes fadeInLeft {
+  0% {
+    opacity: 0;
+    transform: translateX(-50px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.fade-in-left {
+  animation: fadeInLeft 1.2s ease-out forwards;
+}
+
+.fade-in-left-delayed {
+  animation: fadeInLeft 1.2s ease-out 0.5s forwards;
+}
+
+.heading-font {
+  font-family: 'Anton', monospace;
+  color:rgb(75, 40, 79)
+}

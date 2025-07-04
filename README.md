@@ -25,3 +25,6 @@ This project is a simple yet elegant **Quote Generator Web App** built using mod
 - Added Api Route.
 - NOTE: Application Is Not functional, few issues are still to be resloved.
 
+## ✅ Day 4 – Completed Searching Logic
+- Added quote.json for searching quotes.
+- NOTE: Application Is Now functional.

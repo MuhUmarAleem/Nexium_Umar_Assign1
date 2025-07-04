@@ -1,0 +1,72 @@
+{
+  "success": [
+    {
+      "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+      "author": "Winston Churchill"
+    },
+    {
+      "quote": "Don't be afraid to give up the good to go for the great.",
+      "author": "John D. Rockefeller"
+    },
+    {
+      "quote": "Success usually comes to those who are too busy to be looking for it.",
+      "author": "Henry David Thoreau"
+    }
+  ],
+  "opportunity": [
+    {
+      "quote": "In the middle of difficulty lies opportunity.",
+      "author": "Albert Einstein"
+    },
+    {
+      "quote": "Opportunities don't happen. You create them.",
+      "author": "Chris Grosser"
+    },
+    {
+      "quote": "Success is where preparation and opportunity meet.",
+      "author": "Bobby Unser"
+    }
+  ],
+  "perseverance": [
+    {
+      "quote": "Perseverance is not a long race; it is many short races one after the other.",
+      "author": "Walter Elliot"
+    },
+    {
+      "quote": "It always seems impossible until it's done.",
+      "author": "Nelson Mandela"
+    },
+    {
+      "quote": "Through perseverance many people win success out of what seemed destined to be certain failure.",
+      "author": "Benjamin Disraeli"
+    }
+  ],
+  "self-discipline": [
+    {
+      "quote": "We must all suffer one of two things: the pain of discipline or the pain of regret.",
+      "author": "Jim Rohn"
+    },
+    {
+      "quote": "Discipline is the bridge between goals and accomplishment.",
+      "author": "Jim Rohn"
+    },
+    {
+      "quote": "Self-discipline is when your conscience tells you to do something and you don’t talk back.",
+      "author": "W. K. Hope"
+    }
+  ],
+  "never-give-up": [
+    {
+      "quote": "Never give up on something that you can’t go a day without thinking about.",
+      "author": "Winston Churchill"
+    },
+    {
+      "quote": "It does not matter how slowly you go as long as you do not stop.",
+      "author": "Confucius"
+    },
+    {
+      "quote": "Our greatest glory is not in never falling, but in rising every time we fall.",
+      "author": "Confucius"
+    }
+  ]
+}
