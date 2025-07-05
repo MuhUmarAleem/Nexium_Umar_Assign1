@@ -1,3 +1,4 @@
+
 # Assignment-01 Quote Generator
 
 This project is a simple yet elegant **Quote Generator Web App** built using modern front-end tools. It allows users to enter a topic and receive **three motivational quotes** related to that topic.
@@ -28,3 +29,17 @@ This project is a simple yet elegant **Quote Generator Web App** built using mod
 ## ✅ Day 4 – Completed Searching Logic
 - Added quote.json for searching quotes.
 - NOTE: Application Is Now functional.
+
+## ✅ Day 05:
+  - **Made the entire application responsive**
+  - Works well on mobile, tablet, and desktop
+  - Adjusts font sizes and spacing based on screen size
+  - Improved input field and quote box layout for small screens
+
+## 📂 Run Locally
+
+```bash
+git clone https://github.com/yourusername/quote-generator
+cd quote-generator
+npm install
+npm run dev
