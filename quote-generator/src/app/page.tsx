@@ -119,7 +119,7 @@ export default function QuoteSearchForm() {
                 className="p-3 sm:p-4 bg-white/10 rounded-md border"
               >
                 <p className="text-sm sm:text-base lg:text-lg italic text-white leading-relaxed">
-                  "{quote.quote}"
+                  &quot;{quote.quote}&quot;
                 </p>
                 <p className="text-xs sm:text-sm text-right text-white mt-2">
                   — {quote.author}
