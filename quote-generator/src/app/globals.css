@@ -179,3 +179,7 @@
   font-family: 'Anton', monospace;
   color:rgb(75, 40, 79)
 }
+
+nextjs-portal {
+  display: none;
+}
