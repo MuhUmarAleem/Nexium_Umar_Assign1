@@ -43,7 +43,7 @@ export default function QuoteSearchForm() {
     try {
       const res = await fetch("/quotes.json");
       const data = await res.json();
-      const topic = values.topic.toLowerCase();
+      const topic = values.topic.toLowerCase().trim();
 
       if (!data[topic]) {
         setError("No quotes found for this topic.");
